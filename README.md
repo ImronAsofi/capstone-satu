@@ -2,4 +2,4 @@
 
 INI CAPSTONE SATU
 
-<img src='https://images.app.goo.gl/Fo1nP56ZhdPtPzjA6'></>
+<img src="https://images.app.goo.gl/Fo1nP56ZhdPtPzjA6">
