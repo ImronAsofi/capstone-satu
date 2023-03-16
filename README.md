@@ -1,3 +1,3 @@
 # capstone-satu
 
-INI CAPSTONE
+INI CAPSTONE SATU
